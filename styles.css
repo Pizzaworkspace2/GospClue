@@ -1,0 +1,14 @@
+@font-face {
+  font-family: cool;
+  src: url('GothaniaSerifPersonalUseRegular-9MKw0.otf');
+  font-style: normal;
+}
+
+#title {
+  font-family: cool;
+  vertical-align: middle;
+}
+
+body {
+  background: darkgrey;
+}
