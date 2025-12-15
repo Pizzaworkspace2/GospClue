@@ -13,3 +13,19 @@
 body {
   background: #2b2b2b;
 }
+
+.button {
+  background: #2b2b2b;
+  border-radius: 12px;
+  height: 200px;
+  width: 240px;
+}
+
+.button:hover {
+  background: #636161;
+  border-radius: 12px;
+  height: 200px;
+  width: 240px;
+}
+  
+  
