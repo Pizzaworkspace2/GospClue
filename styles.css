@@ -19,6 +19,7 @@ body {
   border-radius: 12px;
   height: 200px;
   width: 240px;
+  text-align: center;
 }
 
 .button:hover {
