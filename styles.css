@@ -34,5 +34,9 @@ h1, h2, h3 {
   color: white;
   font-family: cool;
 }
+
+img {
+  border-radius: 8px;
+}
   
   
