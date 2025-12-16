@@ -7,16 +7,18 @@ body {
   background: #2b2b2b;
   border-radius: 12px;
   font-family: cool;
-  height: 300px;
-  width: 360px;
+  height: 340px;
+  width: 390px;
   text-align: center;
+  padding: 30px;
 }
 
 .button:hover {
   background: #636161;
   border-radius: 12px;
-  height: 200px;
-  width: 240px;
+  height: 340px;
+  width: 390px;
+  padding: 30px;
 }
 
 h1, h2, h3 {
@@ -27,6 +29,10 @@ img {
   border-radius: 8px;
   height: 180px;
   width: 210px;
+}
+
+p {
+  color: white;
 }
 
   
