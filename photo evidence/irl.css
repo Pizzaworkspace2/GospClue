@@ -14,7 +14,6 @@ body {
 }
 
 .button:hover {
-  background: #636161;
   border-radius: 12px;
   height: 340px;
   width: 390px;
@@ -36,9 +35,15 @@ p {
 }
 
 .move {
+  background: #2b2b2b;
   height: 50px;
   width: 50px;
   border-radius: 50%;
+  
+}
+
+.move:hover {
+  background: #636161;
 }
 
   
